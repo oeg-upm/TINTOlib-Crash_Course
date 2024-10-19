@@ -29,16 +29,16 @@ Here are the notebooks you can directly open and run in Google Colab:
 The notebooks listed below are designed for regression tasks:
 
 - **TensorFlow - CNN**:  
-  [![Open In Colab - TensorFlow CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material-Draft/blob/main/Notebooks/Tensorflow/Tensorflow_Regression_CNN.ipynb)
+  [![Open In Colab - TensorFlow CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_CNN.ipynb)
 
 - **TensorFlow - CNN + MLP Hybrid**:  
-  [![Open In Colab - TensorFlow CNN + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material-Draft/blob/main/Notebooks/Tensorflow/Tensorflow_Regression_CNN%2BMLP.ipynb)
+  [![Open In Colab - TensorFlow CNN + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_CNN%2BMLP.ipynb)
 
 - **TensorFlow - Vision Transformer (ViT)**:  
-  [![Open In Colab - TensorFlow ViT](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material-Draft/blob/main/Notebooks/Tensorflow/Tensorflow_Regression_ViT.ipynb)
+  [![Open In Colab - TensorFlow ViT](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT.ipynb)
 
 - **TensorFlow - ViT + MLP Hybrid**:  
-  [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material-Draft/blob/main/Notebooks/Tensorflow/Tensorflow_Regression_ViT%2BMLP.ipynb)
+  [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
 
 ## Methods for Tabular-to-Image Transformation
 
