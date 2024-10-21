@@ -1,4 +1,4 @@
-# Crash Course on TINTOlib: Tabular Data to Synthetic Images for Vision-Based Machine Learning
+# Crash Course on [TINTOlib](https://tintolib.readthedocs.io/en/latest/): Tabular Data to Synthetic Images for Vision-Based Machine Learning
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
@@ -14,7 +14,7 @@
 </div>
 
 ## Description  
-This repository provides a comprehensive crash course on using [TINTOlib](https://tintolib.readthedocs.io/en/latest/), a Python library designed to transform tabular data into synthetic images for machine learning tasks. It includes slides and Jupyter notebooks that demonstrate how to apply state-of-the-art vision models like Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to problems such as regression and classification, using TINTOlib for data transformation.
+This repository provides a comprehensive crash course on using [TINTOlib](https://tintolib.readthedocs.io/en/latest/), a Python library designed to transform tabular data into synthetic images for machine learning tasks. It includes slides and Jupyter notebooks that demonstrate how to apply state-of-the-art vision models like Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to problems such as regression and classification, using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for data transformation.
 
 The repository also features Hybrid Neural Networks (HyNNs), where one branch is an MLP designed to process tabular data, while another branch—either CNN or ViT—handles the synthetic images. This architecture leverages the strengths of both data formats for enhanced performance on complex machine learning tasks. Ideal for those looking to integrate image-based deep learning techniques into tabular data problems.
 
@@ -30,6 +30,14 @@ The repository also features Hybrid Neural Networks (HyNNs), where one branch is
 - Compatible with **[Python](https://www.python.org/)** 3.7 or higher.
 
 ## Materials
+
+This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course contains the following materials in different folders:
+- **Background**: Crash course on Machine Learning and Deep Learning. It includes both presentations and Jupyter Notebooks covering theoretical and practical concepts of classic algorithms, MLP, CNN, and ViT. LINK
+- **Presentations**: Contains specific presentations on [TINTOlib](https://tintolib.readthedocs.io/en/latest/) and the deep learning architectures that can be built.
+- **Notebooks**: Includes different folders with practical examples and recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for classification and regression tasks. These are:
+  - **LazyPredict**: How to get baseline results with classic models on Tidy Data.
+  - **PyTorch**: Recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) with PyTorch.
+  - **TensorFlow**: Recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) with TensorFlow/Keras.
 
 
 ## Practical Session
@@ -72,7 +80,7 @@ The notebooks listed below are designed for regression tasks:
 
 In this tutorial, we will explore various methods to transform tabular data into images to take advantage of deep learning models such as Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs).
 
-**TINTOlib** is a state-of-the-art library that wraps the most important techniques for the construction of **Synthetic Images** from [Sorted Data](https://www.jstatsoft.org/article/view/v059i10) (also known as **Tabular Data**). 
+**[TINTOlib](https://tintolib.readthedocs.io/en/latest/)** is a state-of-the-art library that wraps the most important techniques for the construction of **Synthetic Images** from [Sorted Data](https://www.jstatsoft.org/article/view/v059i10) (also known as **Tabular Data**). 
 
 **Citing TINTO**: If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.softx.2023.101391)**:
 
@@ -104,7 +112,7 @@ And use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022
 }
 ```
 
-All the methods presented can be called using the TINTOlib library. The methods presented include:
+All the methods presented can be called using the [TINTOlib](https://tintolib.readthedocs.io/en/latest/) library. The methods presented include:
 
 |                              Model                               |    Class     | Features |                                                                Hyperparameters                                                                 |
 |:----------------------------------------------------------------:|:------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -118,7 +126,7 @@ All the methods presented can be called using the TINTOlib library. The methods 
 |                         [FeatureWrap]()                          | `FeatureWrap()`  |          |                                                             `problem` `size` `bins` `zoom` `verbose`                                                              |
 |                         [BIE]()                          | `BIE()`  |          |                                                             `problem` `precision` `zoom` `verbose`                                                              |
 
-### Documentation
+## More information
 
 - For more detailed information, refer to the **[TINTOlib ReadTheDocs](https://tintolib.readthedocs.io/en/latest/)**.  
 - GitHub repository: **[TINTOlib Documentation](https://github.com/oeg-upm/TINTOlib-Documentation)**.
@@ -134,7 +142,7 @@ All the methods presented can be called using the TINTOlib library. The methods 
 
 <div>
 <p align = "center">
-<kbd><img src="./Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="./imgs/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="./imgs/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="./imgs/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
+<kbd><img src="./Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="./Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="./Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="./Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
 </p>
 </div>
 
