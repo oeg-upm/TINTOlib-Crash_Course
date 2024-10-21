@@ -53,7 +53,7 @@ Using synthetic images, experiment with either vision models like CNNs or ViTs, 
 - **Synthetic images using CNN**  
   ![Tabular-to-Image CNN](Images/Tabular-to-image-CNN.jpg)
 
-- **Synthetic images using Hybrid Neural Network with ViT (HyNNViT)**  
+- **Synthetic images using Hybrid Neural Network with ViT (HyViT)**  
   ![Tabular-to-Image HyNNViT](Images/Tabular-to-image-HyNNViT.jpg)
 
 ## Notebooks - Open in Colab
