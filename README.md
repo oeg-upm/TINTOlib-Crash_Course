@@ -32,7 +32,7 @@ The repository also features Hybrid Neural Networks (HyNNs), where one branch is
 ## Materials
 
 This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course contains the following materials in different folders:
-- **Background**: Crash course on Machine Learning and Deep Learning. It includes both presentations and Jupyter Notebooks covering theoretical and practical concepts of classic algorithms, MLP, CNN, and ViT. LINK
+- **Datasets**: Different supervised learning datasets (regression and classification) for training with [TINTOlib](https://tintolib.readthedocs.io/en/latest/).
 - **Presentations**: Contains specific presentations on [TINTOlib](https://tintolib.readthedocs.io/en/latest/) and the deep learning architectures that can be built.
 - **Notebooks**: Includes different folders with practical examples and recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for classification and regression tasks. These are:
   - **LazyPredict**: How to get baseline results with classic models on Tidy Data.
