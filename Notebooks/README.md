@@ -37,6 +37,6 @@ For this purpose, diferents notebooks have been arranged depending on the Machin
 
 <div>
 <p align = "center">
-<kbd><img src="../../Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="../../Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="../../Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="../../Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
+<kbd><img src="../Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="../Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="../Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="../Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
 </p>
 </div>
