@@ -10,7 +10,7 @@
 [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
 
 <div align="center">
-  <img src="../../Images/logo.svg" alt="TINTO Logo" width="150">
+  <img src="../Images/logo.svg" alt="TINTO Logo" width="150">
 </div>
 
 ## Description  
