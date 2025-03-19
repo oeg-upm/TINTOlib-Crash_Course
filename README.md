@@ -9,7 +9,7 @@
 [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
 
 <div align="center">
-  <img src="Images/logo.svg" alt="TINTO Logo" width="150">
+  <img src="3_Images/logo.svg" alt="TINTO Logo" width="150">
 </div>
 
 ## Description  
@@ -46,15 +46,15 @@ Work in groups to try and  surpass the baseline set by classical models on the B
 
 Lazypredict - refer to this notebook: `Notebooks/Lazypredict/LazyPredict_Regression.ipynb`
 
-![Baseline Performance](Images/Baseline.png)
+![Baseline Performance](3_Images/Baseline.png)
 
 Using synthetic images, experiment with either vision models like CNNs or ViTs, and explore hybrid models. Below are the architectures that will be presented, and the ones you will modify and use during the session:
 
 - **Synthetic images using CNN**  
-  ![Tabular-to-Image CNN](Images/Tabular-to-image-CNN.jpg)
+  ![Tabular-to-Image CNN](3_Images/Tabular-to-image-CNN.jpg)
 
 - **Synthetic images using Hybrid Neural Network with ViT (HyViT)**  
-  ![Tabular-to-Image HyNNViT](Images/Tabular-to-image-HyNNViT.jpg)
+  ![Tabular-to-Image HyNNViT](3_Images/Tabular-to-image-HyNNViT.jpg)
 
 ## Notebooks - Open in Colab
 
@@ -144,7 +144,7 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 
 <div>
 <p align = "center">
-<kbd><img src="./Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="./Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="./Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="./Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
+<kbd><img src="./3_Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="./3_Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="./3_Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="./3_Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
 </p>
 </div>
 
