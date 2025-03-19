@@ -19,13 +19,17 @@ The repository also features Hybrid Neural Networks (HyNNs), where one branch is
 
 ## Materials
 
-This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course contains the following materials in different folders:
-- **Datasets**: Different supervised learning datasets (regression and classification) for training with [TINTOlib](https://tintolib.readthedocs.io/en/latest/).
-- **Presentations**: Contains specific presentations on [TINTOlib](https://tintolib.readthedocs.io/en/latest/) and the deep learning architectures that can be built.
-- **Notebooks**: Includes different folders with practical examples and recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for classification and regression tasks. These are:
-  - **LazyPredict**: How to get baseline results with classic models on Tidy Data.
-  - **PyTorch**: Recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) with PyTorch.
-  - **TensorFlow**: Recipes for using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) with TensorFlow/Keras.
+This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is organized into the following main folders:
+
+- **0_Complete course**: Contains full course materials, including PDF presentations on ML, deep learning, CNNs, Transformers, and synthetic images. Inside, the `Jupyters Notebooks` folder provides step-by-step tutorials and practical exercises.
+- **1_Notebooks**: Practical notebooks for various tasks and frameworks.
+  - **Challenge**: Contains notebooks and data for the practical session, check the "Practical Session" section below.
+  - **Lazypredict**: Quick baseline models for classification and regression.
+  - **Pytorch**: Example notebooks showcasing PyTorch implementations (e.g., ViT, hybrid models).
+  - **Tensorflow**: Example notebooks showcasing TensorFlow/Keras implementations (e.g., CNNs, ViTs, hybrid models).
+- **2_Data**: Datasets for binary/multiclass classification or regression tasks.
+- **3_Images**: Images and diagrams used throughout the documentation and notebooks.
+- **4_ECAI2024_Slide**: Slides for the ECAI 2024 tutorial session.
 
 ## Features
 - Input data formats (2 options):
