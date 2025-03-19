@@ -1,7 +1,6 @@
 # Crash Course on [TINTOlib](https://tintolib.readthedocs.io/en/latest/): Tabular Data to Synthetic Images for Vision-Based Machine Learning
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/)
 [![Documentation Status](https://readthedocs.org/projects/morph-kgc/badge/?version=latest)](https://tintolib.readthedocs.io/en/latest/)
 [![Open In Colab - TensorFlow CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_CNN.ipynb)
@@ -10,7 +9,7 @@
 [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
 
 <div align="center">
-  <img src="../Images/logo.svg" alt="TINTO Logo" width="150">
+  <img src="../3_Images/logo.svg" alt="TINTO Logo" width="150">
 </div>
 
 ## Description  
@@ -37,6 +36,6 @@ For this purpose, diferents notebooks have been arranged depending on the Machin
 
 <div>
 <p align = "center">
-<kbd><img src="../Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="../Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="../Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="../Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
+<kbd><img src="../3_Images/logo-oeg.png" alt="Ontology Engineering Group" width="150"></kbd> <kbd><img src="../3_Images/logo-upm.png" alt="Universidad Politécnica de Madrid" width="150"></kbd> <kbd><img src="../3_Images/logo-uned-.jpg" alt="Universidad Nacional de Educación a Distancia" width="231"></kbd> <kbd><img src="../3_Images/logo-uclm.png" alt="Universidad de Castilla-La Mancha" width="115"></kbd> 
 </p>
 </div>
