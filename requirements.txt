@@ -1,3 +1,4 @@
+tintolib==1.0.6
 bitstring==4.3.0
 matplotlib==3.9.4
 numpy==2.0.2
