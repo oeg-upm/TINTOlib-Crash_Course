@@ -13,26 +13,22 @@
 </div>
 
 
-<div style="border: 1px solid #cfd8dc; padding: 1em; margin-bottom: 1.5em; border-radius: 4px; background-color: #f5f8fa;">
-  <h2 style="color: #1565c0; text-align: center;">🎉 New Free Course on Udemy! 🎉</h2>
-  <p style="text-align: center; font-size: 1em; color: #37474f;">
-    We’ve just launched a <strong>100% free course on Udemy</strong> about <strong>using TINTOlib</strong> and developing <strong>Hybrid Neural Networks</strong>.<br/>
-    Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and hybrid architectures like a pro.
-  </p>
-  <p style="text-align: center;">
-    <a href="https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0" 
-       style="background-color: #1976d2; color: white; padding: 0.7em 1.2em; text-decoration: none; font-weight: bold; border-radius: 5px;">
-      👉 Access the Course on Udemy
-    </a>
-  </p>
-</div>
+## 🎉 New Free Course on Udemy! 🎉
+
+**We’ve just launched a 100% free course on Udemy** about **using TINTOlib** and developing **Hybrid Neural Networks**.
+
+Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and hybrid architectures like a pro.
+
+[![Access the Course on Udemy](https://img.shields.io/badge/Udemy-Free%20Course-blue?logo=Udemy&logoColor=white)](https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0)
+
+---
 
 ## 🧠 Description  
 This repository provides a comprehensive crash course on using [TINTOlib](https://tintolib.readthedocs.io/en/latest/), a Python library designed to transform tabular data into synthetic images for machine learning tasks. It includes slides and Jupyter notebooks that demonstrate how to apply state-of-the-art vision models like Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to problems such as regression and classification, using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for data transformation.
 
 The repository also features Hybrid Neural Networks (HyNNs), where one branch is an MLP designed to process tabular data, while another branch—either CNN or ViT—handles the synthetic images. This architecture leverages the strengths of both data formats for enhanced performance on complex machine learning tasks. Ideal for those looking to integrate image-based deep learning techniques into tabular data problems.
 
-## Materials
+## 📚 Materials
 
 This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is organized into the following main folders:
 
@@ -93,7 +89,7 @@ The notebooks listed below are designed for regression tasks:
 
 ---
 
-## 📚 Methods for Tabular-to-Image Transformation
+## 🧪 Methods for Tabular-to-Image Transformation
 
 In this tutorial, we will explore various methods to transform tabular data into images to take advantage of deep learning models such as Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs).
 
