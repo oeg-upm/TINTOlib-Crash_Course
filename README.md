@@ -20,7 +20,7 @@
 Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and hybrid architectures like a pro.
 
 <p align="center">
-  <a href="https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0">
+  <a href="https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0" target="_blank">
     <img src="https://img.shields.io/badge/Udemy-Free%20Course-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white" alt="Access the Course on Udemy"/>
   </a>
 </p>
@@ -31,6 +31,8 @@ Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and h
 This repository provides a comprehensive crash course on using [TINTOlib](https://tintolib.readthedocs.io/en/latest/), a Python library designed to transform tabular data into synthetic images for machine learning tasks. It includes slides and Jupyter notebooks that demonstrate how to apply state-of-the-art vision models like Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to problems such as regression and classification, using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for data transformation.
 
 The repository also features Hybrid Neural Networks (HyNNs), where one branch is an MLP designed to process tabular data, while another branch—either CNN or ViT—handles the synthetic images. This architecture leverages the strengths of both data formats for enhanced performance on complex machine learning tasks. Ideal for those looking to integrate image-based deep learning techniques into tabular data problems.
+
+---
 
 ## 📚 Materials
 
@@ -45,6 +47,8 @@ This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is orga
 - **2_Data**: Datasets for binary/multiclass classification or regression tasks.
 - **3_Images**: Images and diagrams used throughout the documentation and notebooks.
 - **4_ECAI2024_Slide**: Slides for the ECAI 2024 tutorial session.
+
+---
 
 ## 🔧 Features
 - Input formats: **CSV** or Pandas DataFrame
@@ -70,6 +74,8 @@ Using synthetic images, experiment with either vision models like CNNs or ViTs, 
 
 - **Synthetic images using Hybrid Neural Network with ViT (HyViT)**  
   ![Tabular-to-Image HyNNViT](3_Images/Tabular-to-image-HyNNViT.jpg)
+
+---
 
 ## 🧩 Notebooks - Open in Colab
 
@@ -143,11 +149,14 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 | [FeatureWrap](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87) | `FeatureWrap()` | `problem` `normalize` `verbose` `size` `bins` `zoom` |
 | [BIE](https://ieeexplore.ieee.org/document/10278393) | `BIE()` | `problem` `normalize` `verbose` `precision` `zoom` |
 
+---
+
 ## 💬 More information
 
 - For more detailed information, refer to the **[TINTOlib ReadTheDocs](https://tintolib.readthedocs.io/en/latest/)**.  
 - GitHub repository: **[TINTOlib Documentation](https://github.com/oeg-upm/TINTOlib-Documentation)**.
 - PyPI: **[PyPI](https://pypi.org/project/TINTOlib/)**.
+
 
 
 ## 👥 Authors
