@@ -19,7 +19,11 @@
 
 Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and hybrid architectures like a pro.
 
-[![Access the Course on Udemy](https://img.shields.io/badge/Udemy-Free%20Course-blue?logo=Udemy&logoColor=white)](https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0)
+<p align="center">
+  <a href="https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0">
+    <img src="https://img.shields.io/badge/Udemy-Free%20Course-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white" alt="Access the Course on Udemy"/>
+  </a>
+</p>
 
 ---
 
