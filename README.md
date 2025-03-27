@@ -12,7 +12,22 @@
   <img src="3_Images/logo.svg" alt="TINTO Logo" width="150">
 </div>
 
-## Description  
+
+<div style="border: 1px solid #cfd8dc; padding: 1em; margin-bottom: 1.5em; border-radius: 4px; background-color: #f5f8fa;">
+  <h2 style="color: #1565c0; text-align: center;">🎉 New Free Course on Udemy! 🎉</h2>
+  <p style="text-align: center; font-size: 1em; color: #37474f;">
+    We’ve just launched a <strong>100% free course on Udemy</strong> about <strong>using TINTOlib</strong> and developing <strong>Hybrid Neural Networks</strong>.<br/>
+    Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and hybrid architectures like a pro.
+  </p>
+  <p style="text-align: center;">
+    <a href="https://www.udemy.com/course/tintolib-deep-learning-tabutar-data-con-imagenes-sinteticas/?referralCode=16B7C59C2E3B0BD249D0" 
+       style="background-color: #1976d2; color: white; padding: 0.7em 1.2em; text-decoration: none; font-weight: bold; border-radius: 5px;">
+      👉 Access the Course on Udemy
+    </a>
+  </p>
+</div>
+
+## 🧠 Description  
 This repository provides a comprehensive crash course on using [TINTOlib](https://tintolib.readthedocs.io/en/latest/), a Python library designed to transform tabular data into synthetic images for machine learning tasks. It includes slides and Jupyter notebooks that demonstrate how to apply state-of-the-art vision models like Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to problems such as regression and classification, using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for data transformation.
 
 The repository also features Hybrid Neural Networks (HyNNs), where one branch is an MLP designed to process tabular data, while another branch—either CNN or ViT—handles the synthetic images. This architecture leverages the strengths of both data formats for enhanced performance on complex machine learning tasks. Ideal for those looking to integrate image-based deep learning techniques into tabular data problems.
@@ -31,20 +46,16 @@ This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is orga
 - **3_Images**: Images and diagrams used throughout the documentation and notebooks.
 - **4_ECAI2024_Slide**: Slides for the ECAI 2024 tutorial session.
 
-## Features
-- Input data formats (2 options):
-    - **Pandas Dataframe** 
-    - **Files with the following format** 
-        - **Tabular files**: The input data must be in **[CSV](https://en.wikipedia.org/wiki/Comma-separated_values)**, taking into account the **[Tidy Data](https://www.jstatsoft.org/article/view/v059i10)** format.
-        - **Tidy Data**: The **target** (variable to be predicted) should be set as the last column of the dataset. Therefore, the first columns will be the features.
-        - All data must be in numerical form.
-        
-- Runs on **Linux**, **Windows** and **macOS** systems.
-- Compatible with **[Python](https://www.python.org/)** 3.7 or higher.
+## 🔧 Features
+- Input formats: **CSV** or Pandas DataFrame
+- Designed for tidy data (**target column last**)
+- Output: grayscale images from reduction and transformation methods
+- Compatible with **Linux, Windows, macOS**
+- Requires **Python 3.7+**
 
 ---
 
-## Practical Session
+## 🚀 Practical Session
 
 Work in groups to try and  surpass the baseline set by classical models on the Boston housing dataset.
 
@@ -60,7 +71,7 @@ Using synthetic images, experiment with either vision models like CNNs or ViTs, 
 - **Synthetic images using Hybrid Neural Network with ViT (HyViT)**  
   ![Tabular-to-Image HyNNViT](3_Images/Tabular-to-image-HyNNViT.jpg)
 
-## Notebooks - Open in Colab
+## 🧩 Notebooks - Open in Colab
 
 Here are the notebooks you can directly open and run in Google Colab:
 
@@ -82,7 +93,7 @@ The notebooks listed below are designed for regression tasks:
 
 ---
 
-## Methods for Tabular-to-Image Transformation
+## 📚 Methods for Tabular-to-Image Transformation
 
 In this tutorial, we will explore various methods to transform tabular data into images to take advantage of deep learning models such as Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs).
 
@@ -132,19 +143,19 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 | [FeatureWrap](https://link.springer.com/chapter/10.1007/978-3-319-70139-4_87) | `FeatureWrap()` | `problem` `normalize` `verbose` `size` `bins` `zoom` |
 | [BIE](https://ieeexplore.ieee.org/document/10278393) | `BIE()` | `problem` `normalize` `verbose` `precision` `zoom` |
 
-## More information
+## 💬 More information
 
 - For more detailed information, refer to the **[TINTOlib ReadTheDocs](https://tintolib.readthedocs.io/en/latest/)**.  
 - GitHub repository: **[TINTOlib Documentation](https://github.com/oeg-upm/TINTOlib-Documentation)**.
 - PyPI: **[PyPI](https://pypi.org/project/TINTOlib/)**.
 
 
-## Authors
+## 👥 Authors
 - **[Manuel Castillo-Cara](https://github.com/manwestc) - [manuelcastillo@dia.uned.es](manuelcastillo@dia.uned.es)**
 - **[Raúl García-Castro](https://github.com/rgcmme) - [r.garcia@upm.es](r.garcia@upm.es)**
 - **[Jiayun Liu](https://github.com/DCY1117) - [jiayun.liu@upm.es](jiayun.liu@upm.es)**
 
-## Contributors
+## 🏛️ Institutions
 
 <div>
 <p align = "center">
