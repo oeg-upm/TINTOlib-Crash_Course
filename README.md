@@ -29,12 +29,19 @@ Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and h
 
 ---
 
-### 📺 VideoTutorial Course (English)
+---
 
-🎥 A new hands-on course is available with **bilingual videos (English/Spanish)** and **practical notebooks** to learn how to use **TINTOlib** with deep learning models like CNNs and ViTs.
+### 📺 VideoTutorial Course (Englihs/Spanish)
 
-➡️ **Access the full course here:**  
-[`📂 5_TINTOlib Videotutorial course`](./5_TINTOlib%20Videotutorial%20course/README.md)
+🎥 Prefer not to register on Udemy or looking for the English version of the course? No worries — you can follow the full course directly on GitHub!
+
+This hands-on tutorial includes **bilingual videos (English/Spanish)** and **practical notebooks** to help you learn how to use **TINTOlib** with deep learning models like CNNs, ViTs, and hybrid architectures.
+
+<p align="center">
+  <a href="./5_TINTOlib%20Videotutorial%20course/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-VideoTutorial%20Course-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="Access the Course on GitHub"/>
+  </a>
+</p>
 
 ---
 
