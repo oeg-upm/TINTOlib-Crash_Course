@@ -13,7 +13,7 @@
 </div>
 
 
-## 🎉 New Free Course on Udemy! 🎉
+## 🎉 New Free Course on Udemy! (Espanish) 🎉
 
 **We’ve just launched a 100% free course on Udemy** about **using TINTOlib** and developing **Hybrid Neural Networks**.
 
@@ -24,6 +24,17 @@ Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and h
     <img src="https://img.shields.io/badge/Udemy-Free%20Course-blueviolet?style=for-the-badge&logo=Udemy&logoColor=white" alt="Access the Course on Udemy"/>
   </a>
 </p>
+
+---
+
+---
+
+### 📺 VideoTutorial Course (English)
+
+🎥 A new hands-on course is available with **bilingual videos (English/Spanish)** and **practical notebooks** to learn how to use **TINTOlib** with deep learning models like CNNs and ViTs.
+
+➡️ **Access the full course here:**  
+[`📂 5_TINTOlib Videotutorial course`](./5_TINTOlib%20Videotutorial%20course/README.md)
 
 ---
 
