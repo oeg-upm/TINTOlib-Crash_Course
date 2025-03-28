@@ -135,8 +135,6 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 
 ---
 
-
-
 ## 🧪 Citing TINTO: 
 
 If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.softx.2023.101391)**:
@@ -172,11 +170,12 @@ And use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022
 
 ---
 
-
 ## 👥 Authors
 - **[Manuel Castillo-Cara](https://github.com/manwestc) - [manuelcastillo@dia.uned.es](manuelcastillo@dia.uned.es)**
 - **[Raúl García-Castro](https://github.com/rgcmme) - [r.garcia@upm.es](r.garcia@upm.es)**
 - **[Jiayun Liu](https://github.com/DCY1117) - [jiayun.liu@upm.es](jiayun.liu@upm.es)**
+
+---
 
 ## 🏛️ Institutions
 
