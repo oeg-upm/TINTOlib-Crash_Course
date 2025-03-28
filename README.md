@@ -27,7 +27,7 @@ Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and h
 
 ---
 
-### 📺 VideoTutorial Course (Englihs/Spanish)
+### 📺 VideoTutorial Course (English/Spanish)
 
 🎥 Prefer not to register on Udemy or looking for the English version of the course? No worries — you can follow the full course directly on GitHub!
 
@@ -61,6 +61,7 @@ This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is orga
 - **2_Data**: Datasets for binary/multiclass classification or regression tasks.
 - **3_Images**: Images and diagrams used throughout the documentation and notebooks.
 - **4_ECAI2024_Slide**: Slides for the ECAI 2024 tutorial session.
+- **5_TINTOlib Videotutorial course**: English/Spanish video course with theory and practice.
 
 ---
 
@@ -75,12 +76,6 @@ This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is orga
 
 ## 🚀 Practical Session
 
-Work in groups to try and  surpass the baseline set by classical models on the Boston housing dataset.
-
-Lazypredict - refer to this notebook: `Notebooks/Lazypredict/LazyPredict_Regression.ipynb`
-
-![Baseline Performance](3_Images/Baseline.png)
-
 Using synthetic images, experiment with either vision models like CNNs or ViTs, and explore hybrid models. Below are the architectures that will be presented, and the ones you will modify and use during the session:
 
 - **Synthetic images using CNN**  
@@ -90,7 +85,7 @@ Using synthetic images, experiment with either vision models like CNNs or ViTs, 
   ![Tabular-to-Image HyNNViT](3_Images/Tabular-to-image-HyNNViT.jpg)
 
 ---
-
+<!--
 ## 🧩 Notebooks - Open in Colab
 
 Here are the notebooks you can directly open and run in Google Colab:
@@ -112,6 +107,7 @@ The notebooks listed below are designed for regression tasks:
   [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
 
 ---
+-->
 
 ## 🧪 Methods for Tabular-to-Image Transformation
 
@@ -170,7 +166,6 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 - For more detailed information, refer to the **[TINTOlib ReadTheDocs](https://tintolib.readthedocs.io/en/latest/)**.  
 - GitHub repository: **[TINTOlib Documentation](https://github.com/oeg-upm/TINTOlib-Documentation)**.
 - PyPI: **[PyPI](https://pypi.org/project/TINTOlib/)**.
-
 
 
 ## 👥 Authors
