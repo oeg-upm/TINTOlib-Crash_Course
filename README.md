@@ -135,7 +135,9 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 
 ---
 
-## Citing TINTOlib
+
+
+## 🧪 Citing TINTO: 
 
 If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10.1016/j.softx.2023.101391)**:
 
@@ -152,7 +154,7 @@ If you used TINTO in your work, please cite the **[SoftwareX](https://doi.org/10
 }
 ```
 
-And TINTO use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022.10.011)** 
+And use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffus.2022.10.011)** 
 
 ```bib
 @article{inffus_TINTO,
@@ -166,6 +168,7 @@ And TINTO use-case developed in **[INFFUS Paper](https://doi.org/10.1016/j.inffu
     doi = {https://doi.org/10.1016/j.inffus.2022.10.011}
 }
 ```
+
 
 ---
 
