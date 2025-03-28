@@ -27,10 +27,6 @@ Learn how to turn tabular data into synthetic images and apply CNNs, ViTs, and h
 
 ---
 
----
-
----
-
 ### 📺 VideoTutorial Course (Englihs/Spanish)
 
 🎥 Prefer not to register on Udemy or looking for the English version of the course? No worries — you can follow the full course directly on GitHub!
