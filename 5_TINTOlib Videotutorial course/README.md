@@ -33,19 +33,17 @@ Todos los vídeos están disponibles en **inglés** y **español**.
 
 > Conceptual overview of TINTOlib and Hybrid Neural Networks (HyNNs).
 
-🎥 **Videos**:
+### 🎥 **Videos**:
 
-## 📘 Theory Section (English)
+| **Topic** | **English** | **Español** |
+|-------|---------|---------|
+| 1. Introduction to TINTOlib | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYyRgFA4wkRImzfsIajrm4kB4e2XPWLh-6KDcegmwN_ziA?e=DzJriP" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ER46i3hDhjROs5jA2PTBYlIBWYRv2RvfFftiazuWAMYB4A?e=rS2EaY" target="_blank">▶ Ver</a> |
+| 2. Tabular to Image Conversion | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQOX6cRQpQNKs-UzphXwoSwBFpk_akzzzpNpwGePfXfN7A?e=BVEOkk" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EbnmjOEGO3BJilXLHKLsIkIB9RPHvF_L8ilzIu0bM2wuKg?e=sw48sa" target="_blank">▶ Ver</a> |
+| 3. Hybrid Neural Networks (HyNNs) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ER70DDUBQS5PgmPsAFLZQawBCadBT-u1ioYk6K99DE037w?e=vGW1gD" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ESYi7l3y2zxFnVeUmAiHn-gB1d5xc6yWBhTFBWJuLBvSzQ?e=tMCD2h" target="_blank">▶ Ver</a> |
 
-| Topic | Video |
-|-------|-------|
-| 1. Introduction to TINTOlib | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYyRgFA4wkRImzfsIajrm4kB4e2XPWLh-6KDcegmwN_ziA?e=DzJriP" target="_blank">▶ Watch</a> |
-| 2. Tabular to Image Conversion | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQOX6cRQpQNKs-UzphXwoSwBFpk_akzzzpNpwGePfXfN7A?e=BVEOkk" target="_blank">▶ Watch</a> |
-| 3. Hybrid Neural Networks (HyNNs) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ER70DDUBQS5PgmPsAFLZQawBCadBT-u1ioYk6K99DE037w?e=vGW1gD" target="_blank">▶ Watch</a> |
+### 📄 **Slides**:
 
-📄 **Slides**:
-
-- [Download Presentation (PDF)](materials/TINTO_Course_Slides.pdf)
+- [Download Presentation (PDF)](Synthetic Images.pdf)
 
 ---
 
@@ -53,17 +51,16 @@ Todos los vídeos están disponibles en **inglés** y **español**.
 
 > Each hands-on video corresponds to a Jupyter notebook.
 
-🎥 **Videos + Notebooks**:
+### 🎥 **Videos + Notebooks**:
 
-## 🧪 Practice Section (English)
 
-| Practice | Video |
-|----------|-------|
-| 1. CNN for Tabular Images | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYcr2dyZl15PhQDp9pKwhlgBAhHUPNaldzNz3tKvKxA73g?e=7GVg9i" target="_blank">▶ Watch</a> |
-| 2. CNN + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EaQS83hu6zFOnHV-ae3qq0UBX9gXEVXUrVA6pZdq4OAM_A?e=p58axn" target="_blank">▶ Watch</a> |
-| 3. Vision Transformer (ViT) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Een_RZLruZtAg4hERmEQDBABW_1RgRhIeWWctgUBp8_ciw?e=PLVmk6" target="_blank">▶ Watch</a> |
-| 4. ViT + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EX1yftlhomtFvYk0J_xVgc4B1aYmyb7Zusk_9YEWSkcjWQ?e=3vm72R" target="_blank">▶ Watch</a> |
-| 5. Summary & Insights | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQkaGoPthfhIjZ6G7XOkliMB1Cj81hxme2oSfhVmNYed4A?e=h90uM4" target="_blank">▶ Watch</a> |
+| **Practice** | **English Video** | **Spanish Video** | **Notebook** |
+|----------|----------------|----------------|----------|
+| 1. CNN for Tabular Images | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYcr2dyZl15PhQDp9pKwhlgBAhHUPNaldzNz3tKvKxA73g?e=7GVg9i" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYi2s6QVpUdDmmaOEVva_WgBnD0i5fgwRT6rK_LQ3vSK_A?e=fifZhE" target="_blank">▶ Ver</a> | [Regression_CNN.ipynb](Regression_CNN.ipynb) |
+| 2. CNN + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EaQS83hu6zFOnHV-ae3qq0UBX9gXEVXUrVA6pZdq4OAM_A?e=p58axn" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Ea2TWDMKPv1ElDkYF62xxHgBPZoMXPwYfgp96Fjv2TPxTw?e=KIadzh" target="_blank">▶ Ver</a> | [Binary_CNN+MLP.ipynb](Binary_CNN+MLP.ipynb) |
+| 3. Vision Transformer (ViT) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Een_RZLruZtAg4hERmEQDBABW_1RgRhIeWWctgUBp8_ciw?e=PLVmk6" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EeY6NzdTCKNOjlaloTNL_gwB-cRstNgHIf2BVpfNu9bWPQ?e=9RP6hO" target="_blank">▶ Ver</a> | [Regression_ViT.ipynb](Regression_ViT.ipynb) |
+| 4. ViT + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EX1yftlhomtFvYk0J_xVgc4B1aYmyb7Zusk_9YEWSkcjWQ?e=3vm72R" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQqgV5Et0P1GnPQmnfhsPyYB2bEUxjh-2RrN73gH1Z-NVg?e=rdu7Qs" target="_blank">▶ Ver</a> | [Binary_hybrid_vision_transformer.ipynb](Binary_hybrid_vision_transformer.ipynb) |
+| 5. Summary & Insights | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQkaGoPthfhIjZ6G7XOkliMB1Cj81hxme2oSfhVmNYed4A?e=h90uM4" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EXmz8zE81KdDtaqofCfxPXIB-nqxu3JTXyHevf5z9kzODQ?e=npk3X3" target="_blank">▶ Ver</a> | [Regression_CNN+MLP-Fusion.ipynb](Regression_CNN+MLP-Fusion.ipynb) |
 
 ---
 
