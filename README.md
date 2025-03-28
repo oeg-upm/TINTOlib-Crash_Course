@@ -74,7 +74,7 @@ This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is orga
 
 ---
 
-## 🚀 Practical Session
+## 🚀 Image-based Neural Network Architectures
 
 Using synthetic images, experiment with either vision models like CNNs or ViTs, and explore hybrid models. Below are the architectures that will be presented, and the ones you will modify and use during the session:
 
