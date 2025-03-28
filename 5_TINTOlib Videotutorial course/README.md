@@ -57,11 +57,11 @@ Todos los vídeos están disponibles en **inglés** y **español**.
 
 | **Practice** | **English Video** | **Spanish Video** | **Notebook** |
 |-------------|-------------------|-------------------|--------------|
-| 1. CNN for Tabular Images | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYcr2dyZl15PhQDp9pKwhlgBAhHUPNaldzNz3tKvKxA73g?e=7GVg9i" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYi2s6QVpUdDmmaOEVva_WgBnD0i5fgwRT6rK_LQ3vSK_A?e=fifZhE" target="_blank">▶ Ver</a> | 📓 [Regression_CNN.ipynb](Regression_CNN.ipynb) |
-| 2. CNN + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EaQS83hu6zFOnHV-ae3qq0UBX9gXEVXUrVA6pZdq4OAM_A?e=p58axn" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Ea2TWDMKPv1ElDkYF62xxHgBPZoMXPwYfgp96Fjv2TPxTw?e=KIadzh" target="_blank">▶ Ver</a> | 📓 [Binary_CNN+MLP.ipynb](Binary_CNN+MLP.ipynb) |
-| 3. Vision Transformer (ViT) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Een_RZLruZtAg4hERmEQDBABW_1RgRhIeWWctgUBp8_ciw?e=PLVmk6" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EeY6NzdTCKNOjlaloTNL_gwB-cRstNgHIf2BVpfNu9bWPQ?e=9RP6hO" target="_blank">▶ Ver</a> | 📓 [Regression_ViT.ipynb](Regression_ViT.ipynb) |
-| 4. ViT + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EX1yftlhomtFvYk0J_xVgc4B1aYmyb7Zusk_9YEWSkcjWQ?e=3vm72R" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQqgV5Et0P1GnPQmnfhsPyYB2bEUxjh-2RrN73gH1Z-NVg?e=rdu7Qs" target="_blank">▶ Ver</a> | 📓 [Binary_hybrid_vision_transformer.ipynb](Binary_hybrid_vision_transformer.ipynb) |
-| 5. Summary & Insights | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQkaGoPthfhIjZ6G7XOkliMB1Cj81hxme2oSfhVmNYed4A?e=h90uM4" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EXmz8zE81KdDtaqofCfxPXIB-nqxu3JTXyHevf5z9kzODQ?e=npk3X3" target="_blank">▶ Ver</a> | 📓 [Regression_CNN+MLP-Fusion.ipynb](Regression_CNN+MLP-Fusion.ipynb) |
+| 1. CNN for Tabular Images | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYcr2dyZl15PhQDp9pKwhlgBAhHUPNaldzNz3tKvKxA73g?e=7GVg9i" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYi2s6QVpUdDmmaOEVva_WgBnD0i5fgwRT6rK_LQ3vSK_A?e=fifZhE" target="_blank">▶ Ver</a> | 📓 [Regression_CNN.ipynb](1.Regression_CNN.ipynb) |
+| 2. CNN + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EaQS83hu6zFOnHV-ae3qq0UBX9gXEVXUrVA6pZdq4OAM_A?e=p58axn" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Ea2TWDMKPv1ElDkYF62xxHgBPZoMXPwYfgp96Fjv2TPxTw?e=KIadzh" target="_blank">▶ Ver</a> | 📓 [Binary_CNN+MLP.ipynb](2.Binary_CNN+MLP.ipynb) |
+| 3. Vision Transformer (ViT) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/Een_RZLruZtAg4hERmEQDBABW_1RgRhIeWWctgUBp8_ciw?e=PLVmk6" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EeY6NzdTCKNOjlaloTNL_gwB-cRstNgHIf2BVpfNu9bWPQ?e=9RP6hO" target="_blank">▶ Ver</a> | 📓 [Regression_ViT.ipynb](3.Regression_ViT.ipynb) |
+| 4. ViT + MLP Hybrid | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EX1yftlhomtFvYk0J_xVgc4B1aYmyb7Zusk_9YEWSkcjWQ?e=3vm72R" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQqgV5Et0P1GnPQmnfhsPyYB2bEUxjh-2RrN73gH1Z-NVg?e=rdu7Qs" target="_blank">▶ Ver</a> | 📓 [Binary_hybrid_vision_transformer.ipynb](4.Binary_hybrid_vision_transformer.ipynb) |
+| 5. Summary & Insights | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQkaGoPthfhIjZ6G7XOkliMB1Cj81hxme2oSfhVmNYed4A?e=h90uM4" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EXmz8zE81KdDtaqofCfxPXIB-nqxu3JTXyHevf5z9kzODQ?e=npk3X3" target="_blank">▶ Ver</a> | 📓 [Regression_CNN+MLP-Fusion.ipynb](5.Regression_CNN+MLP-Fusion.ipynb) |
 
 ---
 
@@ -69,8 +69,8 @@ Todos los vídeos están disponibles en **inglés** y **español**.
 
 1. Watch the **theory** videos first.
 2. Then go through each **practice** video + notebook.
-3. Run the notebooks locally or via [Google Colab](https://colab.research.google.com/).
-4. Required dataset: `Data/Regression/boston.csv` (see main repo).
+3. Run the notebooks locally or via Google Colab.
+4. Required datasets in `Datasets` folder.
 
 ---
 
