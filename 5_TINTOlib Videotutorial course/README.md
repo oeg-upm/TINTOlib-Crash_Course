@@ -1,4 +1,4 @@
-# Crash Course on [TINTOlib](https://tintolib.readthedocs.io/en/latest/): Tabular Data to Synthetic Images for Vision-Based Machine Learning
+# 🎓 VideoTutorial Course: Using TINTOlib for Deep Learning with Tabular Data
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/)
@@ -14,8 +14,6 @@
 </div>
 
 ---
-
-# 🎓 VideoTutorial Course: Using TINTOlib for Deep Learning with Tabular Data
 
 This crash course introduces **TINTOlib**, a Python library to convert tabular data into synthetic images. The course is hands-on and includes **bilingual videos** and **notebooks** to apply deep learning models like **CNNs**, **Vision Transformers (ViTs)**, and **hybrid architectures** on tabular datasets.
 
