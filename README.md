@@ -52,6 +52,16 @@ The repository also features Hybrid Neural Networks (HyNNs), where one branch is
 
 This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is organized into the following main folders:
 
+| **Folder** | **Description** |
+|--------|-------------|
+| [0_Complete course](./0_Complete%20course/) | Contains full course materials, including PDF presentations on ML, deep learning, CNNs, Transformers, and synthetic images. Inside, the `Jupyters Notebooks` folder provides step-by-step tutorials and practical exercises. |
+[1_Notebooks](./1_Notebooks/) | Practical notebooks for various tasks and frameworks. <br> ➤ [Challenge](./1_Notebooks/Challenge/) · [Lazypredict](./1_Notebooks/Lazypredict/) · [Pytorch](./1_Notebooks/Pytorch/) · [Tensorflow](./1_Notebooks/Tensorflow/) |
+| [2_Data](./2_Data/) | Datasets for binary/multiclass classification or regression tasks. <br> ➤ [Binary Classification](./2_Data/Binary/) · [Multiclass](./2_Data/Multiclass/) · [Regression](./2_Data/Regression/) |
+| [3_Images](./3_Images/) | Images and diagrams used throughout the documentation and notebooks. |
+| [4_ECAI2024_Slide](./4_ECAI2024_Slide/) | Slides for the ECAI 2024 tutorial session. |
+| [5_TINTOlib Videotutorial course](./5_TINTOlib%20Videotutorial%20course/) | English/Spanish video course with theory, slides, and practical notebooks on CNNs, ViTs, and hybrid architectures. |
+
+<!--
 - **0_Complete course**: Contains full course materials, including PDF presentations on ML, deep learning, CNNs, Transformers, and synthetic images. Inside, the `Jupyters Notebooks` folder provides step-by-step tutorials and practical exercises.
 - **1_Notebooks**: Practical notebooks for various tasks and frameworks.
   - **Challenge**: Contains notebooks and data for the practical session, check the "Practical Session" section below.
@@ -62,6 +72,8 @@ This [TINTOlib](https://tintolib.readthedocs.io/en/latest/) crash course is orga
 - **3_Images**: Images and diagrams used throughout the documentation and notebooks.
 - **4_ECAI2024_Slide**: Slides for the ECAI 2024 tutorial session.
 - **5_TINTOlib Videotutorial course**: English/Spanish video course with theory and practice.
+-->
+
 
 ---
 
