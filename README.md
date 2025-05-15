@@ -7,6 +7,9 @@
 [![Open In Colab - TensorFlow CNN + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_CNN%2BMLP.ipynb)
 [![Open In Colab - TensorFlow ViT](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT.ipynb)
 [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/oeg-upm/TINTOlib)
+
+
 
 <div align="center">
   <img src="3_Images/logo.svg" alt="TINTO Logo" width="150">
@@ -45,6 +48,18 @@ This hands-on tutorial includes **bilingual videos (English/Spanish)** and **pra
 This repository provides a comprehensive crash course on using [TINTOlib](https://tintolib.readthedocs.io/en/latest/), a Python library designed to transform tabular data into synthetic images for machine learning tasks. It includes videotutorials, slides and Jupyter notebooks that demonstrate how to apply state-of-the-art vision models like Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) to problems such as regression and classification, using [TINTOlib](https://tintolib.readthedocs.io/en/latest/) for data transformation.
 
 The repository also features Hybrid Neural Networks (HyNNs), where one branch is an MLP designed to process tabular data, while another branch—either CNN or ViT—handles the synthetic images. This architecture leverages the strengths of both data formats for enhanced performance on complex machine learning tasks. Ideal for those looking to integrate image-based deep learning techniques into tabular data problems.
+
+---
+
+## 🔎 Explore with DeepWiki
+
+TINTOlib cuenta con una página en **[DeepWiki](https://deepwiki.com/oeg-upm/TINTOlib)**, una plataforma semántica para explorar documentación, preguntas frecuentes, publicaciones relevantes y funcionalidades clave del proyecto.
+
+<p align="center">
+  <a href="https://deepwiki.com/oeg-upm/TINTOlib" target="_blank">
+    <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"/>
+  </a>
+</p>
 
 ---
 
