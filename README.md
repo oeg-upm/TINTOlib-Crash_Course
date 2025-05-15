@@ -51,9 +51,9 @@ The repository also features Hybrid Neural Networks (HyNNs), where one branch is
 
 ---
 
-## 🔎 Explore with DeepWiki
+## 🔎 Explore TINTOlib with DeepWiki
 
-TINTOlib cuenta con una página en **[DeepWiki](https://deepwiki.com/oeg-upm/TINTOlib)**, una plataforma semántica para explorar documentación, preguntas frecuentes, publicaciones relevantes y funcionalidades clave del proyecto.
+TINTOlib has a dedicated space on **[DeepWiki](https://deepwiki.com/oeg-upm/TINTOlib)**, where you can explore semantic documentation, relevant links, bibliography, and answers to frequently asked questions about its use and application.
 
 <p align="center">
   <a href="https://deepwiki.com/oeg-upm/TINTOlib" target="_blank">
