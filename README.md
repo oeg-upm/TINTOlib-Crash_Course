@@ -8,6 +8,7 @@
 [![Open In Colab - TensorFlow ViT](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT.ipynb)
 [![Open In Colab - TensorFlow ViT + MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DCY1117/ECAI2024-Material/blob/main/Notebooks/Challenge/Tensorflow_Regression_ViT%2BMLP.ipynb)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/oeg-upm/TINTOlib)
+[![PyPI Downloads](https://static.pepy.tech/badge/tintolib)](https://pepy.tech/projects/tintolib)
 
 
 
