@@ -37,6 +37,7 @@ Todos los vídeos están disponibles en **inglés** y **español**.
 
 | **Topic** | **English** | **Español** |
 |----------|-------------|-------------|
+| 1. What is TINTOlib? | <a href="https://github.com/oeg-upm/TINTOlib-Crash_Course/blob/main/3_Images/TINTOlib-video-En.mp4" target="_blank">▶ Watch</a> | <a href="" target="_blank">▶ Ver</a> |
 | 1. Introduction to TINTOlib | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EYyRgFA4wkRImzfsIajrm4kB4e2XPWLh-6KDcegmwN_ziA?e=DzJriP" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ER46i3hDhjROs5jA2PTBYlIBWYRv2RvfFftiazuWAMYB4A?e=rS2EaY" target="_blank">▶ Ver</a> |
 | 2. Tabular to Image Conversion | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EQOX6cRQpQNKs-UzphXwoSwBFpk_akzzzpNpwGePfXfN7A?e=BVEOkk" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/EbnmjOEGO3BJilXLHKLsIkIB9RPHvF_L8ilzIu0bM2wuKg?e=sw48sa" target="_blank">▶ Ver</a> |
 | 3. Hybrid Neural Networks (HyNNs) | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ER70DDUBQS5PgmPsAFLZQawBCadBT-u1ioYk6K99DE037w?e=vGW1gD" target="_blank">▶ Watch</a> | <a href="https://unedo365-my.sharepoint.com/:v:/g/personal/manuelcastillo_dia_uned_es/ESYi7l3y2zxFnVeUmAiHn-gB1d5xc6yWBhTFBWJuLBvSzQ?e=tMCD2h" target="_blank">▶ Ver</a> |
