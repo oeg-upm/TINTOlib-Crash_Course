@@ -50,6 +50,10 @@ This repository provides a comprehensive crash course on using [TINTOlib](https:
 
 The repository also features Hybrid Neural Networks (HyNNs), where one branch is an MLP designed to process tabular data, while another branch—either CNN or ViT—handles the synthetic images. This architecture leverages the strengths of both data formats for enhanced performance on complex machine learning tasks. Ideal for those looking to integrate image-based deep learning techniques into tabular data problems.
 
+### 🎬 TINTOlib — Overview Video (English)
+
+https://github.com/user-attachments/assets/d8631aa1-62e8-402c-af2c-a54d9de3197c
+
 ---
 
 ## 🔎 Explore TINTOlib with DeepWiki
