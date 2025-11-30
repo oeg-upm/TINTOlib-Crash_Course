@@ -162,9 +162,27 @@ All the methods presented can be called using the [TINTOlib](https://tintolib.re
 
 ---
 
-## 🧪 Citing TINTO: 
+## 📖 Citation
 
-If you used TINTOlib with Hybrid Neural Networks in your work, please cite the **[IEEE Journal of Selected Topics in Signal Processing](https://doi.org/10.1109/JSTSP.2025.3555067):
+If you use TINTOlib in your research, please cite our paper en [SoftwareX journal](https://doi.org/10.1016/j.softx.2025.102444):
+
+```bibtex
+@article{LIU2025102444,
+  title = {TINTOlib: A Python library for transforming tabular data into synthetic images for deep neural networks},
+  journal = {SoftwareX},
+  volume = {32},
+  pages = {102444},
+  year = {2025},
+  issn = {2352-7110},
+  doi = {https://doi.org/10.1016/j.softx.2025.102444}
+}
+```
+
+---
+
+## 🧪 Citing TINTO Method: 
+
+If you used TINTO with Hybrid Neural Networks in your work, please cite the **[IEEE Journal of Selected Topics in Signal Processing](https://doi.org/10.1109/JSTSP.2025.3555067):
 
 ```bib
 @ARTICLE{10946146,
